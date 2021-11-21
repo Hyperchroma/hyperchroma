@@ -1,7 +1,7 @@
 
 <div align='center'>
-  <img src='assets/logo.png'/>
-  <h1>Hyperchroma</h1>
+  <img style='width: 128px; height: auto;' src='assets/logo.png'/>
+  <h1 style='border-bottom: none;'>Hyperchroma</h1>
   <b><i>Bring your music to life.</i></b>
 </div>
 
