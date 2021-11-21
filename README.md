@@ -1,25 +1,21 @@
 
-<div style='display: flex; flex-direction: column; align-items: center; margin-bottom: 24px;'>
-  <img style='width: 256px; height: auto;' src='assets/logo.png'/>
-  <h1 style='font-size: 48px;'>Hyperchroma</h1>
+<div align='center'>
+  <img src='assets/logo.png'/>
+  <h1>Hyperchroma</h1>
   <b><i>Bring your music to life.</i></b>
 </div>
 
-
 ## About
----
 [Hyperchroma](https://hyperchroma.app) is a desktop music player that animates music and images into real-time music videos.
 
 This public repository contains the issues, discussions, and changelogs for Hyperchroma.
 
 ## Discussions
----
 Feel free to discuss the app using the [Discussions](https://github.com/Hyperchroma/hyperchroma/discussions) or [Discord](https://discord.gg/hT9mz44dFb).
 
 You can also follow the official [twitter](https://twitter.com/hyperchroma) for news on updates and releases.
 
 ## Reporting Issues
----
 Please use the [issue tracker](https://github.com/Hyperchroma/hyperchroma/issues) to report issues and bugs.
 
 When creating issues, please adhere to the following guidelines:
@@ -28,5 +24,4 @@ When creating issues, please adhere to the following guidelines:
 - Include specific steps on how to reproduce the bug if possible
 
 ## Changelog
----
 You can find the changelog for Hyperchroma [here](/CHANGELOG.md).
