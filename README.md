@@ -1,7 +1,7 @@
 
 <div align='center'>
   <img style='width: 128px; height: auto;' src='assets/logo.png'/>
-  <h1 style='border-bottom: none;'>Hyperchroma</h1>
+  <h1>Hyperchroma</h1>
   <b><i>Bring your music to life.</i></b>
 </div>
 
@@ -13,7 +13,7 @@ This public repository contains the issues, discussions, and changelogs for Hype
 ## Discussions
 Feel free to discuss the app using the [Discussions](https://github.com/Hyperchroma/hyperchroma/discussions) or [Discord](https://discord.gg/hT9mz44dFb).
 
-You can also follow the official [twitter](https://twitter.com/hyperchroma) for news on updates and releases.
+You can also follow the official [Twitter](https://twitter.com/hyperchroma) for news on updates and releases.
 
 ## Reporting Issues
 Please use the [issue tracker](https://github.com/Hyperchroma/hyperchroma/issues) to report issues and bugs.
@@ -25,3 +25,10 @@ When creating issues, please adhere to the following guidelines:
 
 ## Changelog
 You can find the changelog for Hyperchroma [here](/CHANGELOG.md).
+
+## Official Links
+[Site](https://hyperchroma.app) 
+| [Issues](https://github.com/Hyperchroma/hyperchroma/issues)
+| [Forums](https://github.com/Hyperchroma/hyperchroma/discussions)
+| [Twitter](https://twitter.com/hyperchroma) 
+| [Discord](https://discord.gg/hT9mz44dFb)
