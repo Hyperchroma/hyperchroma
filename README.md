@@ -17,7 +17,7 @@
 <div align='center'>
   <br/>
   <a href='https://hyperchroma.app' target='_blank' rel='noopener noreferrer'>
-    <img style='width: 50%; height: auto;' src='assets/preview.webp'/>
+    <img src='assets/preview.webp'/>
   </a>
   <br/>
 </div>
