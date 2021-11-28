@@ -11,7 +11,7 @@
     <a href='https://github.com/Hyperchroma/hyperchroma/issues' target='_blank' rel='noopener noreferrer'>Issues</a> •
     <a href='https://github.com/Hyperchroma/hyperchroma/discussions' target='_blank' rel='noopener noreferrer'>Forums</a> •
     <a href='https://twitter.com/hyperchroma' target='_blank' rel='noopener noreferrer'>Twitter</a> •
-    <a href='https://discord.gg/hT9mz44dFb' target='_blank' rel='noopener noreferrer'>Discord</a>
+    <a href='https://discord.gg/2RMkM7Az5h' target='_blank' rel='noopener noreferrer'>Discord</a>
   </p>
 </div>
 <div align='center'>
@@ -29,7 +29,7 @@ This repository contains the issues, discussions, and changelogs for Hyperchroma
 You can find the changelog for Hyperchroma [here](/CHANGELOG.md).
 
 ## Discussions
-Please use the [Discussions](https://github.com/Hyperchroma/hyperchroma/discussions) or [Discord](https://discord.gg/hT9mz44dFb) to discuss the app.
+Please use the [Discussions](https://github.com/Hyperchroma/hyperchroma/discussions) or [Discord](https://discord.gg/2RMkM7Az5h) to discuss the app.
 
 You may also follow the official [Twitter](https://twitter.com/hyperchroma) for news on updates and releases.
 
