@@ -1,5 +1,12 @@
 # Changelog
 
+# 0.9.3-beta - Jan 14, 2022
+## Bug Fixes
+* fixed a performance/memory leak issue that would slowly occur over time after transitions effects are played
+  * this was previously noticeable when leaving the player running over a long period of time or actively editing presets
+* fixed an issue where album metadata wasn't being recognized under certain conditions
+* fixed an issue where album/track artwork wasn't showing under certain conditions
+
 # 0.9.2-beta - Dec 27, 2021
 ## New
 * additional default presets are now available:
